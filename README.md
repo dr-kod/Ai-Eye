@@ -1,4 +1,4 @@
-# AI-Eye
+# AI-Eye 
 
 This project introduces a **wearable AI-driven assistant** designed to help **blind and visually impaired users** perceive and interact with their environment through **multi-camera vision** and **real-time audio guidance**.
 
